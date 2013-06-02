@@ -1,0 +1,2 @@
+S beat2 tetrisBeat2.wav 1
+M beat1 Korobeiniki.mid

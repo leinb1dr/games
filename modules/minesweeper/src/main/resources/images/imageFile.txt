@@ -1,0 +1,4 @@
+R boom Boom*.png 7
+I bombTile boomBG.png
+S tile normal normal.png flagged flagged.png hover hover.png
+R number num*.png 9

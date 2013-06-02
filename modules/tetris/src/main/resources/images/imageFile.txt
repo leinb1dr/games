@@ -1,0 +1,6 @@
+I bg background.png
+R block block*.png 8
+I title titleBackground.png
+I scores scoresBackground.png
+S button normal normal.png hover hover.png
+S speaker notPlaying speakerNotPlaying.png playing speakerPlaying.png
